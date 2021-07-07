@@ -1,0 +1,18 @@
+# DB-project
+### Text mining with MongoDB  
+Extract valuable information from large volumes of unstructured data using NoSQL.
+
+- Word Count  
+Word count by morpheme
+
+- TF/IDF  
+Calculating TF-IDF weights for text mining
+
+- Similarlity  
+Similarity analysis between two news articles
+
+- Morp Analysis  
+morphological analysis
+
+- Copy Data  
+Copy news data stored in MongoDB
