@@ -1,7 +1,8 @@
 # DB-project
 ### Text mining with MongoDB  
-Extract valuable information from large volumes of unstructured data using NoSQL.
+Extract valuable information from large volumes of unstructured  News Article data using NoSQL.
 
+### Requirements  
 - Word Count  
 Word count by morpheme
 
